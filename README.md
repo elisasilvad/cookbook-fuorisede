@@ -1,4 +1,3 @@
-# cookbook-fuorisede
 # Bucatini all'Amatriciana
 ## INGREDIENTS
 * 2 Tbsp. extra-virgin olive oil
